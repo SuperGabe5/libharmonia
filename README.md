@@ -2,6 +2,16 @@
 
 Building blocks for modern GNOME applications.
 
+## About this fork
+
+it's intended for RPM based systems
+
+Current targets:
+
+Fedora 43 (amd64)
+
+Almalinux 10 (aarch64, x86-64-v2)
+
 ## License
 
 Libadwaita is licensed under the LGPL-2.1+.
