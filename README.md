@@ -6,7 +6,7 @@ Building blocks for modern GNOME applications.
 
 This is a fork of libadwaita designd to fit in better with KDE 
 
-it's going to have a more UWP (WinUI) appearance to fit in with the modern aesthetic of KDE
+it's going to have a more UWP (WinUI) like appearance to fit in with the modern aesthetic of KDE
 
 all done without breaking ABI compatibility at all so there's no need to recompile
 
