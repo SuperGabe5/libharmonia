@@ -4,13 +4,19 @@ Building blocks for modern GNOME applications.
 
 ## About this fork
 
-it's intended for RPM based systems
+This is a fork of libadwaita designd to fit in better with KDE 
 
-Current targets:
+it's going to have a more UWP (WinUI) appearance to fit in with the modern aesthetic of KDE
+
+all done without breaking ABI compatibility at all so there's no need to recompile
+
+Current official targets:
 
 Fedora 43 (amd64)
 
 Almalinux 10 (aarch64, x86-64-v2)
+
+Feel free to package this for you KDE based distributions (base doesn't matter)
 
 ## License
 
